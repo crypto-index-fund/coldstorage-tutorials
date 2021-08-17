@@ -4,9 +4,9 @@
 
 For offline address generation we can use the [offline version of the wallet](./offline-wallet) or the [Chrome extension](./extension).
 
-As wallet software we can use [Klaytn Web Wallet](wallet.klaytn.com), or the [Kaikas Chrome Extension](https://chrome.google.com/webstore/detail/kaikas/jblndlipeogpafnldhgmapagcccfchpi)
+As wallet software we can use [Klaytn Web Wallet](https://wallet.klaytn.com), or the [Kaikas Chrome Extension](https://chrome.google.com/webstore/detail/kaikas/jblndlipeogpafnldhgmapagcccfchpi)
 
-This tutorial details the use of the [Klaytn Web Wallet](wallet.klaytn.com).
+This tutorial details the use of the [Klaytn Web Wallet](https://wallet.klaytn.com).
 
 
 ### Offline Address generation 
@@ -20,7 +20,7 @@ This tutorial details the use of the [Klaytn Web Wallet](wallet.klaytn.com).
 
 ### Using the Address online
 
-1. Start the [Klaytn Web Wallet](wallet.klaytn.com)
+1. Start the [Klaytn Web Wallet](https://wallet.klaytn.com)
 2. Click on *Send KLAY & Token*
 2. Click on *Sign-in Using Private Key*
 3. Paste in the Private Key and click on the Agree-chechbox and on *Access*.
